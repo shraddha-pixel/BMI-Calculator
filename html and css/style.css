@@ -1,0 +1,27 @@
+*{
+    background-color: beige;
+}
+
+
+.container{
+    height: fit-content;
+    width: fit-content;
+    border-spacing: 4vmax;
+    align-items: center;
+    background-color:lightgrey;
+
+}
+
+.calculate{
+    border-spacing: 4vmax;
+    color: white;
+    background-color: green;
+    border-radius: 3vmax;
+}
+
+.clr{
+    border-spacing: 4vmax;
+    color: white;
+    background-color: gray;
+    border-radius: 3vmax;
+}
